@@ -1,3 +1,3 @@
-module github.com/adrg/postcode
+module github.com/rmartins-sproutai/postcode
 
-go 1.14
+go 1.22
